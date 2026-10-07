@@ -1,0 +1,901 @@
+--- PAGE 1 ---
+Sl No State
+District
+ZONE
+Division
+Name of Divisional GRO & Designation
+Tel No. with STD
+code
+Email ID
+1
+CHANDIGARH
+CHANDIGARH
+Northern Zone
+CHANDIGARH
+Sh. SUSHIL KUMAR PATIAL (DM), Manager CRM/PS/SSS/Mash
+0172-2773569
+crm.chandigarh@licindia.com
+2
+DELHI
+NEW DELHI
+Northern Zone
+DELHI-1
+MS. ARTI KHOSLA ,Manager(CRM)  Asstt.Divisional Manager
+011-28844132
+crm.delhi-do1@licindia.com
+3
+DELHI
+NEW DELHI
+Northern Zone
+DELHI -3
+MS. Geeta Wadhwani, Manager(CRM)  Asstt Divisional Manager
+011-28855115
+crm.delhi-do3@licindia.com
+4
+DELHI
+NEW DELHI
+Northern Zone
+DELHI-2
+Sh. Rajesh Ahuja Mgr(CRM/PS)
+011-28822223
+crm.delhi-do2@licindia.com
+5
+HARYANA
+KARNAL
+Northern Zone
+KARNAL
+SH.HARINDER KUMAR DHAMIJA,Manager(CRM) Asstt Divisional  Manager
+0184-2209724
+crm.karnal@licindia.com
+6
+HARYANA
+ROHTAK
+Northern Zone
+ROHTAK
+SHRI DINESH KUMAR SHARMA, Manager(CRM/PS/SSS) Asstt Divisional Manager
+01262-228328
+crm.rohtak@licindia.com
+7
+HP
+SHIMLA
+Northern Zone
+SHIMLA
+SH JC NEGI, Manager(CRM)  Divisional Manager
+0177-2629212
+crm.shimla@licindia.com
+8
+J&K
+JAMMU
+Northern Zone
+SRINAGAR
+Sh Sunil Mehta, Manager(CRM)  Divisional Manager
+0191-2475839
+crm.srinagar@licindia.com
+9
+PUNJAB
+AMRITSAR
+Northern Zone
+AMRITSAR
+MS SUSHMA ARORA, Manager(CRM) Asstt Divisional Manager
+0183-2504969
+crm.amritsar@licindia.com
+10
+PUNJAB
+JALANDHAR
+Northern Zone
+JALANDHAR
+SH.NARINDER NATH VASUDEVA,Manager(CRM/PS)  Asstt Divisional Manager
+0181-2452732
+crm.jalandhar@licindia.com
+11
+PUNJAB
+LUDHIANA
+Northern Zone
+LUDHIANA
+SH. PRAHLAD SINGH, Manager(CRM/PS) Asstt Divisional Manager
+0161-2521838
+crm.ludhiana@licindia.com
+12
+RAJASTHAN
+AJMER
+Northern Zone
+AJMER
+Chandra Shekhar Maurya ,Manager (CRM) DM Manager
+0145-2660023
+crm.ajmer@licindia.com
+13
+RAJASTHAN
+BIKANER
+Northern Zone
+BIKANER
+SH UMESH CHAND KHATRI, Manager(CRM)Asstt Divisional Manager
+0151-2225920
+crm.bikaner@licindia.com
+14
+RAJASTHAN
+JAIPUR
+Northern Zone
+JAIPUR-1
+MR. PRADEEP MOHAN AGRAWAL , Manager(CRM)Asstt Divisional Manager
+0141-2745840
+crm.jaipur@licindia.com
+15
+RAJASTHAN
+JAIPUR
+Northern Zone
+JAIPUR-2
+SH SHRAWAN LAL MEENA , Manager(CRM)  Divisional Manager
+0141-2795922
+crm.jaipur2@licindia.com
+16
+RAJASTHAN
+JODHPUR
+Northern Zone
+JODHPUR
+Ms. Savita Kaushik ,Manager(CRM)  Divisional Manager
+0291-2657849
+crm.jodhpur@licindia.com
+17
+RAJASTHAN
+UDAIPUR
+Northern Zone
+UDAIPUR
+SH. ANIL HARSH, Manager(CRM) Asstt Divisional Manager
+0294-2487182
+crm.udaipur@licindia.com
+18
+UP
+AGRA
+North Central Zone
+AGRA
+Smt. Rashmi Seth, ADM
+0562-2525972
+crm_agra@licindia.com
+19
+UP
+ALIGARH
+North Central Zone
+ALIGARH
+Sh PRAVEEN KUMAR SHARMA ,ADM
+05710-2420066
+crm_aligarh@licindia.com
+20
+UP
+PRAYAGRAJ
+North Central Zone
+PRAYAGRAJ
+Ranvir Singh,ADM
+0532-2401854
+crm_prayagraj@licindia.com
+21
+UP
+BAREILLY
+North Central Zone
+BAREILLY
+SMT SHIKHA,ADM
+0581-2301712
+crm_bareilly@licindia.com
+22
+UT
+DEHRADUN
+North Central Zone
+DEHRADUN
+RAJEEV BHARDWAJ,DM
+0135-2668231
+crm_dehradun@licindia.com
+23
+UP
+AYODHYA
+North Central Zone
+AYODHYA
+Smt Preeti Saxena,DM
+05278-244261
+crm_ayodhya@licindia.com
+24
+UP
+GORAKHPUR
+North Central Zone
+GORAKHPUR
+SH D P MISHRA,ADM
+0551-2230329
+crm_gorakhpur@licindia.com
+25
+UT
+HALDWANI
+North Central Zone
+HALDWANI
+Upma Sethi,ADM
+05946-267880
+crm_haldwani@licindia.com
+26
+UP
+KANPUR
+North Central Zone
+KANPUR
+Ms Kavita Gupta,ADM
+0512-2368546
+crm_kanpur@licindia.com
+27
+UP
+LUCKNOW
+North Central Zone
+LUCKNOW
+Sarita Kumari
+0522-4038327
+crm_lucknow@licindia.com
+28
+UP
+MEERUT
+North Central Zone
+MEERUT
+Shri Radhey Shyam Sharma ,DM
+0121-2671201
+crm_meerut@licindia.com
+29
+UP
+VARANASI
+North Central Zone
+VARANASI
+Ms Bhawana Sinha,ADM
+0542-2450879
+crm_varanasi@licindia.com
+30
+CHATTISGARH
+BILASPUR
+Central Zone
+BILASPUR
+SH.Y N S KHARSAN, Manager (CRM)
+07752-249858
+crm.bilaspur@licindia.com
+31
+CHATTISGARH
+RAIPUR
+Central Zone
+RAIPUR
+SH. RAJESH KUMAR VERMA, Manager (CRM)
+0771-2583056
+crm.raipur@licindia.com
+32
+MADHYA PRADESH
+BHOPAL
+Central Zone
+BHOPAL
+Smt. ANUJ NIRANJAN VERMA, Manager (CRM)
+0755-2572320
+crm.bhopal@licindia.com
+33
+MADHYA PRADESH
+GWALIOR
+Central Zone
+GWALIOR
+Sh Sourabh Jawariya, Manager (CRM)
+0751-2448606
+crm.gwalior@licindia.com
+34
+MADHYA PRADESH
+INDORE
+Central Zone
+INDORE
+Smt. SUNITA MISHRA (CRM)
+0731-2529724
+crm.indore@licindia.com
+35
+MADHYA PRADESH
+JABALPUR
+Central Zone
+JABALPUR
+SHRI Sudheer Ranjan Nema, Manager (CRM)
+0761-2671079
+crm.jabalpur@licindia.com
+36
+MADHYA PRADESH
+SATNA
+Central Zone
+SATNA
+SRI AJAY KUMAR SONI, Manager (CRM)
+07672-250400
+crm.satna@licindia.com
+37
+MADHYA PRADESH
+SHAHDOL
+Central Zone
+SHAHDOL
+SRI K P SAHU, Manager (CRM)
+07652-248469
+crm.shahdol@licindia.com
+38
+ASSAM
+BONGAIGAON
+Eastern Zone
+BONGAIGAON
+ANANYA ROY, MANAGER(CRM-PS)
+03664 - 230383
+crm_bongaigaon@licindia.com
+39
+ASSAM
+KAMRUP
+Eastern Zone
+GUWAHATI
+DHIRAJ  MISRA, MANAGER(CRM/PS), ADM
+0361-2516946
+crm_guwahati@licindia.com
+40
+ASSAM
+JORHAT
+Eastern Zone
+JORHAT
+PRASANTA SARMA, MANAGER(CRM/PS)/ADM
+0376-2360994
+crm_jorhat@licindia.com
+41
+ASSAM
+CACHAR
+Eastern Zone
+SILCHAR
+SANTANU DAS, MANAGER (CRM/PS/SSS/EDMS), ADM
+03842-241730
+crm_silchar@licindia.com
+42
+WEST BENGAL
+BURDWAN
+Eastern Zone
+ASANSOL
+SHIBASIS CHAKRABORTY, MANAGER ( CRM)
+341-2256012
+crm_asansol@licindia.com
+43
+WEST BENGAL
+BURDWAN
+Eastern Zone
+BARDHAMAN
+KAJAL NASKAR, MANAGER (CRM/PS), ADM
+0342-2644682
+crm.bardhaman@licindia.com
+44
+WEST BENGAL
+KOLKATA
+Eastern Zone
+HOWRAH
+SANDIP MANDAL, MANAGER(CRM),DM
+033- 2243 4614
+crm_howrah@licindia.com
+45
+WEST BENGAL
+JALPAIGURI
+Eastern Zone
+JALPAIGURI
+SUBODH KUMAR, MANAGER CRM/PS
+03561-255443
+crm_jalpaiguri@licindia.com
+46
+WEST BENGAL
+WEST MIDNAPORE
+Eastern Zone
+KHARAGPUR
+Sri KAUSHIK DAS,  MANAGER(CRM), ADM
+03222-253078
+crm_kharagpur@licindia.com
+47
+WEST BENGAL
+KOLKATA
+Eastern Zone
+KMDO-1
+SUJATA MAITY, MANAGER (CRM/PS), ADM
+033-2212-7535
+crm_kolkata-do1@licindia.com
+48
+WEST BENGAL
+KOLKATA
+Eastern Zone
+KMDO-2
+SUTAPA PAUL , MANAGER(CRM),DM
+033-2397-0637
+crm_kolkata-do2@licindia.com
+49
+WEST BENGAL
+KOLKATA
+Eastern Zone
+KSDO
+ARUN BHATTACHARYA   MANAGER(CRM), DM
+033-23342708
+crm_kolkata-sub@licindia.com
+50
+KARNATAKA
+DHARWAD
+South Central Zone
+DHARWAD
+Kalyani.Madhivanan,Asst divisional Manager
+0836-2212614
+crm.dharwad@licindia.com
+51
+KARNATAKA
+BELGAUM
+South Central Zone
+BELGAUM
+B L KOPPAL ,Asst Divisional Manager/P.Srikant
+0831-2438808
+crm.belagavi@licindia.com
+52
+TELANGANA
+HYDERABAD
+South Central Zone
+SECUNDERABAD
+B.ANURADHA, DIVISIONAL MANAGER
+040-27665039
+crm.secunderabad@licindia.com
+53
+ANDHRA PRADESH
+MACHILIPATNAM
+South Central Zone
+MACHILIPATNAM
+A.Uma Devi, Divisional Manager
+08672-223372
+crm.machilipatnam@licindia.com
+54
+TELANGANA
+WARANGAL
+South Central Zone
+WARANGAL
+M AJITHA , Asst Divisional Manager
+0870-2578815
+crm.warangal@licindia.com
+55
+ANDHRA PRADESH
+VISAKHAPATNAM
+South Central Zone
+VISAKHAPATNAM
+A. Rajani, Divisional Manager
+0891-2505117
+crm.visakhapatnam@licindia.com
+56
+ANDHRA PRADESH
+KADAPA
+South Central Zone
+KADAPA
+P.Altaf Ahmed,Asst Divisional Manager
+08562-247017
+crm.cuddapah@licindia.com
+57
+KARNATAKA
+RAICHUR
+South Central Zone
+RAICHUR
+K.R.BINDU,Asst Divisional Manager
+08532-232432
+crm.raichur@licindia.com
+58
+TELANGANA
+KARIMNAGAR
+South Central Zone
+KARIMNAGAR
+A .VENUGOPAL,Asst Divisional Manager
+08782-240597
+crm.karimnagar@licindia.com
+59
+ANDHRA PRADESH
+E.G.DT.
+South Central Zone
+RAJAHMUNDRY
+YVV MADHAV,Divisional Manager
+0883-2423832
+crm.rmv@licindia.com
+60
+ANDHRA PRADESH
+NELLORE
+South Central Zone
+NELLORE
+D Venkata Subbaraja, Divisional Mnager
+0861-2323072
+crm.nellore@licindia.com
+61
+KARNATAKA
+SHIMOGA
+South Central Zone
+SHIMOGA
+MALATESH V KULKARNI, Divisional Manager
+08182-251320
+crm.shivamogga@licindia.com
+62
+KARNATAKA
+MYSORE
+South Central Zone
+MYSORE
+B.Girija, Divisional Manager
+0821-2495764
+crm.mysuru@licindia.com
+63
+TELANGANA
+HYDERABAD
+South Central Zone
+HYDERABAD
+S.MAHESH , Divisional Manager
+040-23210099
+crm.hyderabad@licindia.com
+64
+KARNATAKA
+UDUPI
+South Central Zone
+UDUPI
+Sheeba, Asst Divisional Manager
+0820-2536907
+crm.udupi@licindia.com
+65
+KARNATAKA
+BANGALORE DO
+South Central Zone
+BANGALORE DO-1
+N Chandrasekhar, Divisional Manager
+080-22966515
+crm.bengaluru-do1@licindia.com
+66
+KARNATAKA
+BANGALORE DO
+South Central Zone
+BANGALORE DO-2
+E K Geetha,Divisional Manager
+080-22966812
+crm.bengaluru-do2@licindia.com
+67
+KERALA
+ERNAKULAM
+Southern Zone
+ERNAKULAM
+SHAILA IBRAHIM Manager CRM,  ADM
+0484- 2362491
+crm.ernakulam@licindia.com
+68
+KERALA
+KOTTAYAM
+Southern Zone
+KOTTAYAM
+AJOY MATHEW, Manager CRM, ADM
+0481-2580121
+crm.kottayam@licindia.com
+69
+KERALA
+KOZHIKODE
+Southern Zone
+KOZHIKODE
+S.KUMAR , Manager CRM, DM
+0495-2728734
+crm.kozhikode@licindia.com
+70
+KERALA
+THRISSUR
+Southern Zone
+THRISSUR
+HARIPRASAD C., MANAGER CRM - ADM
+0487-2436836
+crm.thrissur@licindia.com
+71
+KERALA
+TRIVANDRUM
+Southern Zone
+TRIVANDRUM
+LEELA VARGHESE ,Manager CRM-DM
+0471-2540932
+crm.trivandrum@licindia.com
+72
+TAMILNADU
+CHENNAI
+Southern Zone
+CHENNAI DO I
+FAZIL MOHAMED N , Manager CRM- DM
+044-28604197
+crm.chennai-do1@licindia.com
+73
+TAMILNADU
+CHENNAI
+Southern Zone
+CHENNAI DO II
+R.Ramesh  Manager (CRM)-DM
+044  23451557
+crm.chennai-do2@licindia.com
+74
+TAMILNADU
+COIMBATORE
+Southern Zone
+COIMBATORE
+G SUBRAMANIAN,  Manager CRM-DM
+0422-2303503
+crm.coimbatore@licindia.com
+75
+TAMILNADU
+MADURAI
+Southern Zone
+MADURAI
+P.Chockalingam, Manager CRM,  ADM
+0452- 2537778
+crm.madurai@licindia.com
+76
+TAMILNADU
+SALEM
+Southern Zone
+SALEM
+S. RAJAN, MANAGER CRM-ADM
+0427-2554411
+crm.salem@licindia.com
+77
+TAMILNADU
+THANJAVUR
+Southern Zone
+THANJAVUR
+S. SOLASUNDARA PANDIAN, MANAGER CRM- ADM
+04362-233678
+crm.thanjavur@licindia.com
+78
+TAMILNADU
+TIRUNELVELI
+Southern Zone
+TIRUNELVELI
+G.MATHURAVANI, MANAGER CRM-ADM
+0462-2560860
+crm.tirunelveli@licindia.com
+79
+TAMILNADU
+VELLORE
+Southern Zone
+VELLORE
+BHANUMATHI.V
+0416-2206233
+crm.vellore@licindia.com
+80
+GOA
+NORTH GOA
+Western Zone
+GOA
+SHRI ANNASAHEB B NAIK, MANAGER (CRM) - DM
+0832-2437436
+crm goa@licindia.com
+81
+GUJARAT
+AHMEDABAD
+Western Zone
+AHMEDABAD
+SHRI MUKESH SONARA MANAGER (CRM) - DM
+079-25503004
+crm ahmedabad@licindia.com
+82
+GUJARAT
+BHAVNAGAR
+Western Zone
+BHAVNAGAR
+SHRI A K RYAKA, MANAGER (CRM) - DM
+0278-2490028
+crm bhavnagar@licindia.com
+83
+GUJARAT
+GANDHINAGAR
+Western Zone
+GANDHINAGAR
+Ms SONI SRIVASTAVA, MANAGER (CRM)
+079-23238250
+crm.gandhinagar@licindia.com
+84
+GUJARAT
+NADIAD
+Western Zone
+NADIAD
+SHRI VASUDEV SHUKLA, MANAGER (CRM) - DM
+2,68,25,33,245
+crm nadiad@licindia.com
+85
+GUJARAT
+RAJKOT
+Western Zone
+RAJKOT
+Ms SUDHA PANDYA, MANAGER (CRM) -ADM
+0281-2483210
+crm rajkot@licindia.com
+86
+GUJARAT
+SURAT
+Western Zone
+SURAT
+SHRI JAYANT V MUKANE, MANAGER(CRM) - DM
+0261-2411940
+crm surat@licindia.com
+87
+GUJARAT
+VADODARA
+Western Zone
+VADODARA
+Ms. RENUKA RAO, MANAGER (CRM) - DM
+0265-2306781
+crm vadodara@licindia.com
+88
+MAHARASHATRA
+MUMBAI
+Western Zone
+MUMBAI-IV
+Ms. JYOTI PARAB, MANAGER (CRM) - DM
+022-66599233
+crm mumbai-do4@licindia.com
+89
+MAHARASHTRA
+AMRAVATI
+Western Zone
+AMRAVATI
+SHRI PRANJAY R ROKADE, MANAGER (CRM)
+0721-2665449
+crm amravati@licindia.com
+90
+MAHARASHTRA
+AURANGABAD
+Western Zone
+Chhatrapati
+Sambhaji Nagar
+Ms SHUBHANGI KHARE, MANAGER (CRM) - ADM
+0240-2329299
+crm_csn@licindia.com
+91
+MAHARASHTRA
+KOLHAPUR
+Western Zone
+KOLHAPUR
+SHRI RAVINDRA BHALERAO MANAGER(CRM) - DM
+0231-2661135
+crm kolhapur@licindia.com
+92
+MAHARASHTRA
+MUMBAI
+Western Zone
+MUMBAI-I
+Ms. BLOSSOM GONSALVES, MANAGER (CRM) - DM
+022-66599066
+crm_mumbai-do1@licindia.com
+93
+MAHARASHTRA
+MUMBAI
+Western Zone
+MUMBAI-II
+Ms. SUJATHA RAO, MANAGER (CRM) - DM
+022-69375104
+crm mumbai-do2@licindia.com
+94
+MAHARASHTRA
+MUMBAI
+Western Zone
+MUMBAI-III
+SMT NAYANA PATEL, MANAGER (CRM) - DM
+022-67819270
+crm mumbai-do3@licindia.com
+95
+MAHARASHTRA
+MUMBAI
+Western Zone
+MUMBAI-SSS
+SHRI D.C.PATKAR, MANAGER (CRM)
+022-68867045
+crm mumbai-sss@licindia.com
+96
+MAHARASHTRA
+NAGPUR
+Western Zone
+NAGPUR
+SHRI RAHUL KISTEY, MANAGER (CRM) - DM
+0712-2546436
+crm nagpur@licindia.com
+97
+MAHARASHTRA
+NANDED
+Western Zone
+NANDED
+SHRI BALAJI KOSBATWAR, MANAGER (CRM) - DM
+02462-221777
+crm nanded@licindia.com
+98
+MAHARASHTRA
+NASHIK
+Western Zone
+NASHIK
+SMT. VINITA R CHAUDHARI, MANAGER (CRM) - DM
+0253-2317349
+crm nashik@licindia.com
+99
+MAHARASHTRA
+PUNE
+Western Zone
+PUNE-I
+SMT.BHARATHI P JADHAV,MANAGER (CRM)-DM
+020-25512969
+crm.pune1@licindia.com
+100 MAHARASHTRA
+PUNE
+Western Zone
+PUNE-II
+MR. V R MADHUSUDANAN, MANAGER(CRM) - DM
+020-24509016
+crm.pune2@licindia.com
+101 MAHARASHTRA
+SATARA
+Western Zone
+SATARA
+SMT. SUNITA DESAI, MANAGER(PS)
+02162-224745
+crm satara@licindia.com
+102 MAHARASHTRA
+THANE
+Western Zone
+THANE
+Ms.VAISHALI MALODE, MANAGER (CRM) - DM
+022-25829702
+crm thane@licindia.com
+103 BIHAR
+BEGUSARAI
+East Central Zone
+BEGUSARAI
+Sri Pawan Kumar Singh, ADM
+06243-245703
+crm.begusarai@licindia.com
+104 BIHAR
+BHAGALPUR
+East Central Zone
+BHAGALPUR
+Ranjeet Pandey DM
+0641-2322016
+crm_bhagalpur@licindia.com
+105 BIHAR
+MUZAFFARPUR
+East Central Zone
+MUZAFFARPUR
+Sri Raj Kumar, DM
+0621-2243867
+crm_muzaffarpur@licindia.com
+106 BIHAR
+PATNA
+East Central Zone
+PATNA-DO-II
+Smt Reena Kapoor, Manager(CRM/PS)
+0612-2232506
+crm.patna2@licindia.com
+107 BIHAR
+PATNA
+East Central Zone
+PATNA-I
+SRI V.VEERBHADRA RAO, Manager CRM/PS
+0612-2204067
+crm_patna@licindia.com
+108 JHARKHAND
+EAST SINGHBHUM
+East Central Zone
+JAMSHEDPUR
+Sri Birendra Bhagat, DM
+0657-2320564
+crm_jamshedpur@licindia.com
+109 JHARKHAND
+HAZARIBAGH
+East Central Zone
+HAZARIBAGH
+Sri Chandragupta Mishra, DM
+06546-272629
+crm_hazaribagh@licindia.com
+110 ODISHA
+CUTTACK
+East Central Zone
+CUTTACK
+Sri Vincent Beheramanjhi, DM
+0671-2303112
+crm_cuttack@licindia.com
+111 ODISHA
+GANJAM
+East Central Zone
+BERHAMPUR
+SRI. G. KRISHNA MOHAN, Manager CRM/PS
+0680-2296390
+crm_berhampur@licindia.com
+112 ODISHA
+KHURDA
+East Central Zone
+BHUBANESWAR
+SRI B.N.SANJEEV , Manager( CRM/PS)
+0674-2352394
+crm_bhubaneswar@licindia.com
+113 ODISHA
+SAMBALPUR
+East Central Zone
+SAMBALPUR
+Ram Pd Behera, ADM
+0663-2540354
+crm_sambalpur@licindia.com
+Divisional Grievance Redressal Officers -2026-2027

@@ -1,0 +1,263 @@
+Breadcrumb
+LIC PORTAL
+What are the benefits of paying your LIC premiums through PORTAL?
+* Available 24 X 7 anywhere anytime over the internet free of charges.
+* Premium payment within the comforts of your home or office, and avoid personal visit to LIC.
+* Choose any payment mode available (Credit Card/ Debit Card/ Net Banking/ UPI) for Premium Payments.
+* For paying the Loan Interest and Repayment of Loan, use any payment mode available other than the Credit Card (Debit Card/ Net Banking/ UPI).
+* E-Receipt issued immediately.
+* Updation of policy master happens in real time.
+Forgot User-Id and Password / Changes in online portal profile
+Kindly use the options “Forgot user-id” and “Forgot Password” available on LIC website. For further help regarding login issues and any changes in online portal profile, you may write at
+portalsupport[at]licindia[dot]com
+Which policies are eligible for payment of premiums thru this facility?
+Premium can be paid for ordinary In Force policies and policies eligible for spot revival. This facility is not available for Health Insurance and Salary savings Scheme.
+What is an e-receipt? Whether it is valid for Income tax purpose?
+E-receipt is online, and is valid for IT purpose.
+Do I get any other receipt by post?
+No other receipt is sent by post for online payments.
+Digital Signature not present on receipt.
+The process of sending e receipt with digital signature is discontinued w. e. f. November 2014.
+Unable to make payment online
+* Policy may be in lapsed condition. You may contact any branch of LIC for revival as per rule.
+* Premium entered is incorrect. Premium has to be the basic premium (without any taxes) that is mentioned on the policy document.
+Payment made, Account debited but e-receipt not received.
+* For payment made through Registered User id
+If the account is debited and receipt is not generated, it may be due to session timed out or any other technical reason. As mentioned in the message displayed at the time of premium payment, for such cases receipt is generated within 48 working hours when the payment is received, and will be sent to the mail-id mentioned in the Customer’s profile.
+If the premium receipt is not received within 48 hours , kindly send email with the policy number , date of transaction , the bank details with bank statement to
+bo_eps1 [at]licindia [dot]com
+.
+* For payment made through LIC PAY DIRECT)
+Please visit the “View Transaction Status” bar of “Pay Direct” option under “Pay Premium Online” option through which premium was paid by you. Receipt can be obtained by giving policy number and transaction date and transaction type.
+Double payment is made while making payment through Portal.
+Double payment is being refunded to our service provider to be credited back to your account. The refund process may take 6 to 8 days. For further queries please contact
+bo_eps1[at]licindia[dot]com
+.
+Amount debited but premium not adjusted.
+If the amount has been deducted from your account and has not been adjusted in your policy for more than 10 days, kindly contact your banker as the amount would be lying in the suspense account of your banker to be reversed in your account.
+Payment for the same due through online portal and through Bill pay registration
+Duplicate payment made through Bill Pay will be refunded to our service provider to be credited back to Policyholder’s account. The refund process shall take 6 to 8 days.
+Also, If receipts for both the transactions have been received by customer, then the excess payment made through Bill Pay/Online portal will be refunded by servicing branch of LIC through NEFT.
+We request you to kindly adopt only one mode of premium payment. If standing instructions for premium payment are given to any of the bank, premium should not be paid through other modes to avoid double payment.
+Convenience Fee and other charges for different payment modes.
+Premium Payments through Credit Cards are subject to a
+"Convenience fee"
+. The "Convenience Fee" applicable is entirely borne by LIC. There are
+no charges
+for payment through Debit-card, Net-banking and UPI.
+Mobile APPs (PayTM/PhonePe/Google Pay/Amazon Pay/ Mobikwik)
+How can the LIC policy Premium be paid through Apps ?
+Click on the LIC logo under Insurance Premium Payment tab of the respective Mobile App.
+How can I get the premium receipt?
+While initiating the payment email id will be asked from the user. The payment receipt will be sent to the mail id registered while payment. The receipt will also be available for download in the apps viz . “Paytm - My Order” , “PhonePe - History”, “Google Pay - All Payment activity”, “Amazon Pay – Your orders”. In “Mobikwik” this facility is not available in the app but the payment receipt will be sent to the mail id registered while making the payment.
+Whether any other receipt will be issued to me?
+No other receipt will be issued by LIC.
+What are the Payment modes available on apps?
+UPI, Debit Card, Credit Card and Net banking.
+When will my payment be updated in LIC?
+Premium position will be updated on real time basis.
+Which policies are eligible for payment of premiums thru this facility?
+Premium can be paid for ordinary In Force policies and for policies eligible for spot revival except for ULIP, HELATH, E-TERM plans and Salary Saving Scheme policies.
+NACH
+Can a Single mandate be used for multiple policies?
+No, separate mandate is to be used for each policy.
+Whether the NACH mandate form can be collected from any LIC Branch?
+Since some fields on the mandate form are pre-printed with values specific to the division, it can be taken from any Branch of that division where policy is being serviced.
+How should the Bank Account Number be written on the mandate form?
+Bank account number should be written from Left most box of the account number field without adding any extra zeros at the end.
+When will the Premium be debited from customers’ account?
+Premium will be debited
+Only
+after mandate is successfully validated by customers’ bank and the response is posted in NACH master at the NACH center of the zone.
+Whether intimation about mandate acceptance/rejection is given to customer?
+SMS is sent to customer for acceptance as well as rejection of mandate. Relevant letter is emailed to the customer for rejection of mandate wherever email-id is available and printed letter is sent to the customers where no valid email address is captured. Letters are printed at NACH
+Centers .
+Whether intimation about mandate acceptance/rejection is given to Agent?
+SMS is being sent to Agent for rejection of mandate on the Mobile number registered in agency attached Branch.
+Whether premium will be accepted at cash counter during Pendency of the mandate i.e., awaiting response from the destination
+bank ?
+Yes, premium can be paid at cash counter in Cash or
+Cheque
+during the pendency of the mandate.
+What should be the course of action if the NACH mandate is rejected by customers’ bank?
+Deposit up to date premiums for the policy
+( all
+the dues) and re-register for NACH by submitting fresh mandate to Servicing Branch.
+What are the different reasons of Mandate rejections?
+There are about 60 reasons for mandate rejection. 30 to 40 percent rejections are due to signature mismatch.
+Does LIC charge any Extra Amount for this facility?
+No charges are levied by LIC for this facility
+Whether this facility can be taken for existing policies or available only for new Policies?
+This facility is available to all new policies as well as existing policies including ULIP policies
+When
+the premium amount will be deducted from bank account of the policy holder
+?
+The debit dates fixed i.e.
+7th, 15
+th
+, 22
+nd
+and 28th
+of the month.
+If Bank account is changed then what is the procedure?
+A separate mandate form with new bank details is to be submitted to LIC Servicing Branch office.
+What is to be done in case of Mandate Failure?
+Premium should be paid across the cash counter in the branch all the dues till the date of payment. Subsequent premiums will be collected thru
+NACH.
+I have bank account in Mumbai, but my policy is being serviced by Delhi Branch. Can I opt for NACH?
+Yes, it is possible.
+BILLPAY
+What are the benefits of paying your LIC premiums through this option?
+1. Can decide and authorize payments 24hrs a day * 7days a week because of anywhere anytime access to internet.
+2. Can issue payment instruction within the comforts of your home or office, and avoid personal visit to LIC branch.
+3. Will save time by not waiting in queues for making the payment.
+4. Can avail the free service from LIC, as you don’t have to pay any charges to LIC or its authorized agencies for this additional benefit.
+5. Can choose the bank account or credit card account you want to pay from, any one of your account can be registered with the service provider.
+6. Can decide in advance the date on which you want your account to be debited.
+7. Can choose to modify your instructions during the intervening time.
+8. Will get reminders and alerts by email from the banks and service providers about the premium dues.
+9. Can avoid expenses of postage/courier in sending the remittance to LIC.
+10.Can avoid demand draft/pay order charges for outstation policy premiums.
+11. Can also view your premium dues and other policy details.
+Which policies are eligible for payment of premiums through this facility?
+Policies which are of ordinary mode of payment ie. Yearly, Half-yearly and Quarterly except ULIP, Health and E-TERM Plans.
+Policies with mode of payments such as single premium, ordinary monthly (Mly), NACH and Salary savings scheme (SSS) are not available for this facility.
+Policies should reflect in-force policy status. Lapsed policies or policies due for revival are not valid.
+What are the charges to be paid for availing this facility?
+This facility is absolutely free for the policyholders of LIC.
+Which organizations are authorized to collect LIC premiums through this facility?
+* Authorised Banks:
+ICICI Bank, Federal Bank, Union Bank (for the account holders of the erstwhile Corporation Bank), AXIS Bank and LIC Mutual Fund.
+* Authorised Service Providers:
+Indialdeas.com (BillDesk), Ingenico.com
+Who can register with the authorized banks?
+You as our policyholder having a bank account with any of the above-mentioned authorized banks in any of its branches in India.
+You should have opted for the net-banking facility with the bank. Details of the same can be obtained from the respective bank through its web-site. Downloadable forms are also available for new customers.
+You should be able to access the net-banking account with the login password provided by the bank.
+For more details about net-banking, you may log on to the respective bank’s website.
+Who can register with the authorized service providers?
+You as our policyholder having a bank account in any bank in the select cities where the above-mentioned service providers have their operations.
+On being approached, the service provider obtains a written mandate from you, authorizing them to realize the billed amount directly from your bank account. You may have to give the bank account details and other requisite details as required by the service provider.
+How to add the policy details at the authorized bank/service provider’s web-site?
+Using the login password provided by the bank/service provider, you can log on to your account page at the bank/service provider’s website.
+You have to add LIC as biller with the policy details and other requisite information. In general, you would have to enter the policy number, the instalment premium (without GST), email-id and any other information. This is a one-time process for each policy.
+Some of the service providers/banks’ web-sites have a demo page showing the process of adding the billers.
+How does LIC acknowledge the registered policy details?
+The bank/service provider sends these details to LIC for validation confirmation of the registration data at pre-determined intervals.
+LIC validates the registration data and informs the bank/service provider about the registration status. Since LIC’s database is de-centralized, generally it takes a week’s time for confirmation of registration data.
+A consolidated database of registered policies is maintained by LIC. This database is updated at regular intervals on the basis of changes received from the original servicing branches.
+LIC also sends auto-mailers to the registered policyholders informing the registration status.
+When can I pay the insurance premiums?
+On confirmation of the registration, LIC will regularly send the bills/invoices mentioning the due dates, premium amount, late fees, validity date, etc to the service provider/bank.
+As and when premium becomes payable under the registered policy, LIC sends the bills to the bank/service provider, and the information will be displayed by the bank/service provider in your net-banking account page.
+How to pay the insurance premiums through the banks/service providers?
+You have to log on to the bank/service provider’s website.
+On the web page, you have to mention the date on which you want your account to be debited and click the consent for the payment.
+The authorized Bank will debit your bank account, consolidate the payments and send the consolidated amount to LIC.
+The authorized service provider will send the instructions to the bank branch (as mentioned in your mandate form) and the bank will debit your account and credit the same to the service provider’s bank account, who’ll then remit the amount to LIC. Some service providers have auto pay facility where you can issue standing instructions to the service provider to debit your account as when the bill becomes payable.
+How will the payment get accounted under the policy?
+All consolidated payments from the Banks/Service providers are accounted at PCMC Department, Jeevan Seva Annex Building, S.V. Road, Santacruz (West), Mumbai 400 054.
+E-receipts are send to policies with registered email id and printed receipts are dispatched through ordinary post for policies that do not have a registered email address.
+What are the important points to be noted for availing this payment facility?
+Once registered for Premiums payments through Net-Banking/Credit card, you should avoid paying via other online options/at cash counters, because there are many instances where payment for the same due-month is received twice.
+Since for old registered policies renewal premium receipts are dispatched to the postal address as per your policy records,please ensure that your policy records are updated with your current address.
+In case you have not received the renewal premium receipt, you may collect the premium paid certificate from any LIC branch or Customer zones. You can also download the same if you are registered user on LIC Portal (www.licindia.in). Duplicate receipts cannot be printed in any case.
+Premium Points- Empowered Agents, Authorized Retired Employees Chief Organizers
+Life
+Plus
+Offices – Senior Business Associates
+Bima
+Connect
+Offices – LIC Associates
+Life
+Point
+Offices – Development Officers
+For which policies payment can be done at these centers ?
+Premium can be paid for all in force
+ordinary
+policies. Premium for E-term policies cannot be collected.
+When can the premium be paid?
+Premium can be paid 30 days before the due date to till the policy is in
+force.
+How can the payment be made?
+Payment can be made in cash/
+cheque
+POS machines are also installed at some of the Premium Points.
+How Will I get the premium receipt?
+Signed, valid premium receipt will be issued immediately. Single receipt will be issued if payment is made for more than one policy by the policy holder.
+Whether the receipt issued can be submitted by IT Authorities?
+Yes, the signed receipt is valid.
+Whether any other receipt will be issued to me?
+No other receipt will be issued by LIC and sent by post.
+When my payment will be updated in LIC?
+The
+updation
+of premium normally is in real time.
+Whether any extra charges be collected by the agent?
+Ans.
+NO EXTRA CHARGES WILL BE COLLECTED.
+Franchisees – APT ONLINE, MP ONLINE, SUVIDHA, CSC
+Whether I can make the payment through
+cheque
+?
+No, presently payment can be made only by cash.
+How I will get the premium receipt?
+Valid, signed Premium receipt will be issued by the Collection Center immediately.
+Whether the receipt issued by Cash Counter can be submitted by IT authorities?
+Yes, the signed receipt is valid for submission to IT authorities.
+Whether any other receipt will be issued to me?
+No other receipt will be issued by LIC. The receipt format used by collection center is approved by LIC.
+Premium can be paid for which polices?
+Premium can be paid for all
+Inforce
+ordinary policies except for ULIP, Health and E-term policies.
+When the premium can be paid?
+Premium can be paid 30 days before the due date for in
+force
+polciies.
+When my payment will be updated in LIC?
+The
+updation
+of premium normally is in real time.
+Whether any charges will be collected by the Service Provider?
+NO EXTRA CHARGES WILL BE COLLECTED BY THE E-SEVA CENTRE.
+Premium payment at
+AXIS ,
+CITY UNION BANK and IDBI BANK
+How can I make the payment through above banks?
+Payment can be made at any branch of these three banks by
+cash or
+Cheque.
+Whether I can make the payment through
+cheque
+drawn on any other bank?
+At IDBI Bank Branches payment can be made by cheque drawn on other Banks. The AXIS and City Union Bank branches accept
+Cheques
+drawn on their bank only.
+How will I get the premium receipt?
+Valid, signed Premium receipt will be issued by the bank at the counter. Single receipt will be issued if payment is made for more than one policy by the policy holder.
+Whether the receipt issued by Banks can be submitted by IT authorities?
+Yes, the receipt is valid, signed receipt.
+Whether any other receipt will be issued to me?
+No other receipt will be issued by LIC and sent by post.
+When will my payment will be updated in LIC?
+The
+updation
+of premium normally is in real time.
+Premium can be paid for which polices?
+Premium can be paid for all
+Inforce
+ordinary policies except for ULIP, Health and E-term policies.
+When can the premium be paid?
+Premium can be paid 30 days before the due date to till the
+policy
+is in force.
+Whether any extra charges be collected by the bank?
+NO EXTRA CHARGES WILL BE COLLECTED BY THE BANK.
+For any further clarification please use our SMS helpline. SMS
+LICHELP
+and send it to 92224 92224.
+Our Customer Zone Executive will shortly contact to resolve your query.
+LIC Call Center Services is also available 24 x 7 at 022-6827 6827.
+Page Last Update Date :
+29/07/2026

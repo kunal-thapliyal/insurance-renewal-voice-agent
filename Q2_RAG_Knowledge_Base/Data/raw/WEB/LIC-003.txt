@@ -1,0 +1,229 @@
+Breadcrumb
+Premium Payment through Alternate Channels
+Channels for Collection of Renewal Premium
+(Click on any box for information)
+LIC Office
+Cash Counter
+Alternate Channels
+Cash
+Cheque
+Demand Draft
+Money Order
+UPI/ Debit Card/ Credit Card/ (Limited locations)
+Customer Portal (LIC Website and LIC Digital Mobile App)
+UPI
+Net Banking
+Debit Card
+Credit Card
+Bharat QR Code
+Electronic Debit
+NACH
+Direct Debit
+Bill Pay
+Merchants
+LIFE Plus Points
+Senior Business Associates (SBAs)
+LIFE Points
+Empowered Development Officers
+Premium Points
+Authorised Retired Employees
+Empowered Agents
+Chief Organisers
+Bima Connect
+LIC Associates (Retired SBAs)
+Third Party Apps
+Bharat Connect enabled Mobile Apps/ Institutions
+UPMS
+Policy Bazaar
+Banks & Franchisees
+Axis Bank
+City Union Bank
+IDBI Bank
+APT Online
+CSC
+e-Governance
+MP Online
+Suvidhaa Infoserve
+Alternate Channels of Premium Collection for LIC policies
+1. Customer Portal at LIC Website and LIC Digital Mobile App
+Access Links:
+Click here to access Customer Portal
+Click here to access Customer Portal for NRIs
+Download Apps:
+LIC Digital for Android
+LIC Digital for iOS
+LIC Digital - NRI for Android
+LIC Digital - NRI for iOS
+Online Premium Payment is LIC's initiative to provide on demand premium collection service within a few clicks! It provides for real-time payment of renewal premium dues through the LIC Customer Portal. Premium payment facility is available to both registered as well as non-registered customers by using
+Pay Direct
+option on LIC's website -
+https://licindia.in
+and Mobile App -
+LIC Digital
+which is available on Google Play Store and Apple App Store.
+Relevant Conditions:
+Premium can be paid for Ordinary in-force and Spot Revival allowed policies under all Plans and modes (Yearly, Half-Yearly, Quarterly and Monthly-Ordinary).
+Premium for policies under Salary Savings Scheme (SSS) mode cannot be paid online.
+Premium for NACH mode cannot be paid online. However, premium can be paid online only if the last NACH transaction is dishonoured and NACH mandate status is pending.
+Premium can be paid up to 30 days before the Due Date.
+It is advisable to refrain from paying premium through this channel if the policies are already registered under Bill Pay option of Electronic Debit to avoid duplicate payment.
+Renewal Premium can be paid for ULIP & Health Insurance Policies also.
+Facility of Premium Payment in Advance
+Policyholder can deposit the premium in advance, subject to maximum dues allowed i.e. up to the end of financial year. E.g., Premium falling due up to 31st March can be deposited in current Financial Year.
+Premium due in Next financial year can also be deposited in advance for a maximum period of three months in advance of the due date of the premium.
+Online Loan Repayment & Loan Interest Payment
+A policyholder can repay his/her outstanding Policy loan and loan Interest Payment online without visiting the servicing branch. The option is available in Customer Portal under Online Payments Tab. Policyholder can also pay it by using
+Pay Direct
+option after keying in relevant information like Policy number, Insurance Premium, Date of Birth, Mobile number and Email ID. E-Receipt will be sent to the Email ID registered by the policyholder and it will also be available in his/her Portal account.
+A customer should not attempt two loan repayment transactions on the same day, if the amount is debited from his bank account. This may result into wrong interest calculation or duplication of the transaction.
+Loan repayment and Loan Interest payment can be made through UPI, Net Banking and Debit Cards only. Credit Cards cannot be used.
+This is the only Alternate Channel for payment of Loan and Loan Interest. The main channel being the LIC Office Cash Counter.
+Click here for Frequently Asked Questions by Customer Portal Users
+Click here for Video Help of Customer Portal
+For a registered customer, once the policies are enrolled, list of policies where premium/loan interest is due can be viewed by clicking on link, "Online Payment".
+Policies for which premium is desired to be paid are selected by clicking in the selection box.
+Before clicking the "Check & Pay" button, Policyholder must read the instructions displayed on the screen:
+"(1) Please provide correct and valid mobile number and Email ID. (2) A receipt would be mailed to your E-Mail ID. (3) Online premium payment should be made by the policyholder himself. No third-party payment should be made using this mode of payment. (4) If the premium amount is debited from your Bank Account but error page displayed, a receipt will be sent to your email id in three working days after receiving the confirmation from your Bank. You can report such occurrence to bo_eps1@licindia.com. (5) If re-trying, please first check whether your bank account/card is already debited/charged with the amount of earlier transaction. If debited/charged, please do not pay again. Receipt will be sent as stated above."
+Renewal Premium can be paid by using UPI/ Net Banking, Debit and Credit Cards (Visa/ Master/ Rupay) and Bharat QR Code. There are no charges for payment through UPI, Debit Card, Net Banking and Bharat QR Code.
+Premium Payments through Credit Cards are subject to a Convenience fee. The Convenience Fee applicable is entirely absorbed by LIC.
+The premium receipt for the payment through Portal/Pay Direct can be printed online and will also be e-mailed to the Policy Holder at the same time. Simultaneously successful/unsuccessful transaction message will be flashed.
+The premium receipt will also be available under Customer Portal under My App → Basic Services → Online Payment Receipts.
+The receipt for a successful transaction can be generated through LIC website:
+Go to www.licindia.in
+Click on Pay premium online
+Click on Pay Direct (without login)
+Click on "View transaction status" link
+Put your Policy Number, transaction date and type of payment (Renewal Premium/ Advance Premium/ Loan)
+Download the receipt by clicking on it.
+2. Electronic Debit
+i) NACH
+ECS facility for payment of premium started in LIC of India since March 2004. This is a facility by which premium is deducted by bank at pre-decided date and remitted to LIC.
+LIC of India has migrated all its existing policies registered under the ECS mode of premium deductions to NACH mode with effect from November 09, 2016.
+The National Payments Corporation of India (NPCI) has implemented an electronic payment service termed as National Automated Clearing House (NACH) is a funds clearing platform set up by NPCI similar to the existing ECS of RBI. RBI has mandated that all Merchants & Financial Institutions have to compulsorily migrate to NACH as ECS will be completely replaced by NACH. Under the NACH system, mandate forms are to be submitted as hard copies at the servicing branch of LIC.
+Conditions to avail this facility:
+NACH facility can be availed at the time of inception of the policy or later after completion of policy.
+In NACH Monthly mode, 5% extra premium charged under normal Monthly mode is waived.
+No receipts will be printed and dispatched for NACH Monthly mode policies. Premium paid certificate is issued twice a year by the Servicing Branch.
+NACH mode of payment can be opted for all in-force ULIP, Non-ULIP and Health policies as per plan conditions.
+NACH mode is not allowed for E-term Policies.
+To opt for NACH facility, the next premium must be due at least after 1 month from the date of exercising the option of NACH facility.
+Arrears of premiums cannot be collected through NACH.
+Under the policies registered under NACH mode, premium cannot be paid through any other payment channel except in case of NACH dishonour.
+If NACH debit to customer's bank is dishonoured, deduction will automatically stop for the further dues until the premiums that have fallen due are paid at LIC Branch / premium Point/LIC customer portal.
+Debit dates allowed are 7th, 15th, 22nd and 28th of the month.
+Debit dates are set automatically based on Date of commencement as follows:
+Date of Commencement
+Debit Date
+1st to 7th of the month
+7th of the same month
+8th to 15th of the month
+15th of the same month
+16th to 22nd of the month
+22nd of the same month
+23rd to 28th of the month
+28th of the same month
+How to avail this facility:
+Physical NACH:
+eNACH:
+NACH mandate form, duly signed by the account holder should be submitted along with cancelled cheque leaf/copy of passbook for validation of bank details of account holder.
+There will be a separate mandate for each policy.
+For NACH monthly mode cases, two instalments of premium will be collected for new policies. These will be in addition to the premium instalments for back dating cases.
+All NACH mandate forms submitted by customers at the LIC branch Office will be sent to LIC's NACH "Sponsor Bank" for scanning.
+Sponsor Bank will upload the scanned images on the NPCI platform.
+The Customer's Bank will validate the credentials from the image of the NACH mandate with the customer's details in the database of the Bank.
+If found valid, the customer's bank will accept the NACH mandate received from the customer and SMS conveying acceptance of the customer's NACH mandate for inclusion in the process of debiting all future premiums due under a given policy under NACH process will be sent.
+If the customer's bank detects any discrepancy in the image of the NACH mandate of the customer, customer will be informed of the rejection status through SMS on the registered mobile number in LIC's database. In such rejections, fresh NACH mandate is to be submitted to LIC Branch after taking necessary corrective action.
+For change in Bank details, fresh mandate form should be submitted to the servicing branch.
+Policy holder should ensure that sufficient funds are available in the bank account at the time of debit date and mandate is not dishonoured.
+Any dispute regarding dishonour should be taken up with the Customer's Bank only.
+This facility of easy premium payment can be availed of not only in respect of the policies of self but also on the policies issued on the lives of the spouse and children.
+After completion of Policy or submitting a form for mode change to eNACH in LIC Branch Office, an SMS will be sent to the Policyholder to validate the eNACH mandate.
+The Policyholder must click the link in the SMS sent by LIC of India or can
+visit this link
+to validate the eNACH mandate.
+The validation can be done through Debit Card, Net Banking and Aadhaar.
+The Banks eligible for eNACH and their validation types can be accessed through
+this link.
+NACH Dishonour:
+For the NACH dishonours, LIC sends a letter/SMS to the Policyholder as well as Email/SMS to the concerned Agent, intimating the dishonour with reason. If the reason is
+Insufficient funds
+or
+Account Closed
+, Dishonour charges of Rs. 125/- will be payable in addition to the due premiums and late fee (if applicable) with GST.
+If NACH is dishonoured twice for the reason
+Account Closed
+or
+No Such Account
+, no further Debit will happen unless fresh NACH mandate is submitted to LIC servicing Branch.
+ii) Direct Debit
+Direct Debit is a payment method where funds are automatically debited from the Policyholder's Bank Account to settle Renewal Premium dues. Once authorized, payments are processed on the debit date without requiring manual intervention, ensuring timely and hassle-free transactions. Currently, this mode is available to Policyholders who have completed their Policies online through IDBI Bank and Policy Bazaar.
+iii) Bill Pay (EBPP - Electronic Bill Presentment and Payment)
+Bill Pay, like Direct Debit, is a payment method where the Renewal Premium amount is debited from the Bank Account of the Policyholder. The Policyholder has to register his Policy on one of the Banks/Service Providers engaged by LIC of India for this purpose.
+Authorised Banks, Financial Institutions and Service Providers:
+ICICI Bank
+LIC Mutual Fund
+IndiaIdeas.com Limited (Bill Desk)
+This facility is absolutely free for all customers. No charges are to be paid to LIC/ Bank/ Service Provider for this facility. LIC pays service charges to the Bank/ Service provider as per pre-decided rates. Policies with Ordinary Mode of payment i.e. Yearly, Half-Yearly and Quarterly Mode of payment are allowed under this scheme.
+This facility can be availed only for in-force, Non-ULIP, Non-SSS Policies under Yearly, Half-Yearly, Quarterly Modes. Monthly mode policies and Policies registered under NACH are not eligible for registration under Bill Pay. Premium for ULIP, Health Insurance & E-Term policies cannot be paid through this mode.
+Policyholder has to register his/her policy in the Banker's/ Service Provider's website who will send the policies for Verification to LIC. The Policyholder holding LIC Credit Card and wish to register under Bill Pay option has to fill LIC Premium Payment Registration Form and submit it to LIC Cards Support, Axis Bank Ltd., Credit Card Operations, 4th Floor, NPCI Building No. I, Gigaplex Plot - ITS MIDC, Airoli Knowledge Park, Airoli, Navi Mumbai - 400 708. LIC Cards Customer care: 18002331100
+After verifying the policies, LIC will send acceptance to the Banker/Service Provider. For any reason, if LIC rejects the registration (in case of lapsed policy, premium mismatch, particulars wrongly entered), the information regarding the same will be sent by the LIC/Bill Pay service provider to the Policyholder. In such case the policy is to be registered again. Old registration is treated as cancelled.
+Invoice from LIC will be generated 5 days before the due date which is valid up to the days of grace and sent to the Banker for uploading on their site. Premium can be paid either by giving standing instructions to the bank to debit the bank account/credit card account on a particular date (Auto Pay) or manually accepting the bill which can be paid by login to the banker's site and making the payment online (View & Pay). Receipt will be posted to the address mentioned in the policy records after two or three days of payment by LIC in case of old registrations only. W.e.f. July 2016, E-receipt is generated for all new registrations and sent to the registered Email ID.
+If premium is already paid through any other mode before receipt of the payment through EBPP or the premium amount does not match with premium required, the payment received through EBPP goes to refunds and the amount is refunded by LIC to Vendor/Bank for crediting the amount to the source bank/credit card account. It may take approximately 15 days.
+3. Premium payments at Merchants
+LIC of India has authorised selected Development Officers, Senior Business Associates, Agents, Chief Organisers and Retired employees to collect renewal premium at LIFE Plus Points, LIFE Points, Premium Points and Bima Connect Offices. The Policyholders can pay Renewal Premium at these Offices through Dynamic QR - UPI, Cash, Cheque and through Debit Cards (wherever POS terminals are available).
+Conditions for Renewal Premium Payment:
+Premium can be paid only for Ordinary in-force Policies and Ordinary Policies eligible for Spot Revival under all modes (Yearly, Half-yearly, Quarterly & Monthly Ordinary) except for E-Term policies purchased on www.licindia.in (Online) and Salary Savings Scheme (SSS) policies.
+Premium is updated real-time.
+Premium for NACH mode cannot be paid through this channel. However, premium will be accepted only if last NACH transaction is dishonoured and during the pendency of the NACH mandate.
+Premium can be paid in UPI, Cash as well as through Cheque. Outstation cheques are not accepted. POS terminals are available at some Premium Points for receiving payments through Debit Card and Credit Cards.
+Acceptance of premium can be done up to 30 days before the Due Date.
+Premium cannot be collected for Next Financial Year. E.g., In the month of March, premium cannot be collected for April due.
+It is advisable to refrain from paying premium through this channel if the policies are already registered under Bill Pay option of Electronic Debit to avoid duplicate payment.
+No service charges are required to be paid by the policy holders to avail this facility.
+Premium can be collected for ULIP and Health Policies also.
+Merchant Premium Point Locator
+4. Premium payment at Third-Party Apps
+Bharat Connect enabled Mobile Apps/ Institutions
+LIC of India is now registered as a biller on the Bharat Connect platform, an initiative by NPCI Bharat BillPay Limited (NBBL), a subsidiary of NPCI. Policyholders can conveniently pay renewal premiums using any mobile payment app or website registered with Bharat Connect as an Operating Unit or Agent Institution. Renewal Premium can be paid through digital payment modes exclusively, offering a seamless and secure way to handle premium payments. With Bharat Connect, LIC policyholders get the flexibility to manage their payments effortlessly through a wide range of trusted digital platforms.
+UPMS – Unified Presentment Management System
+This is also an initiative by NBBL, simplifies premium payments for policyholders by enabling seamless automation. Through UPMS, policyholders can register their policies for Auto Pay through any mobile payment app or website integrated with Bharat Connect. Once registered, renewal premiums are automatically debited from the linked bank account on the due date, ensuring timely payments without manual intervention. This secure and reliable solution eliminates the risk of policy lapses while providing a hassle-free experience. With UPMS, managing renewal premium payments becomes effortless, convenient, and worry-free.
+Policy Bazaar
+Renewal Premium can be paid through the Mobile App or website of Policy Bazaar.
+All the payments made under this category are updated in real-time and payment receipt will be sent to the Policyholder through email immediately on successful payment.
+5. Premium payment at Banks & Franchisees
+i) Banks
+Axis Bank
+City Union Bank
+IDBI Bank
+Notes:
+Premium can be paid in any Branch of Extension Counter of the Bank.
+Premium can be paid only in Cash (up to Rs. 50,000/- only) or Cheque drawn on that bank. However, in IDBI Bank, other bank cheques also are accepted.
+Premium can be paid only for in-force policies.
+Premium cannot be paid for ULIP, Health, E-Term and Salary Saving Mode policies.
+Payment receipt will be issued by collection centre only. No separate receipt will be issued by LIC.
+Acceptance of premium can be done up to 30 days before the Due Date.
+Late fee is computed as per the relevant Interest rates. Minimum late fee is Rs. 5/-.
+Premium cannot be paid for the next Financial Year due. E.g., in the month of March, premium cannot be collected for April due.
+ii) Franchisees
+APT Online Ltd.
+CSC e-Governance Services India Ltd.
+MP Online Ltd.
+Suvidhaa Infoserve Ltd.
+Notes:
+Premium can be paid only in cash up to Rs. 50,000/- (Rupees Fifty thousand only).
+Premium can be paid only for ordinary in-force policies.
+Premium cannot be paid for ULIP, Health, E-Term and Salary Saving Mode policies.
+Payment receipt will be issued by collection centre only. No separate receipt will be issued by LIC.
+Payment of premium can be done up to 30 days before the Due Date.
+Late fee is computed as per the relevant interest rates. Minimum late fee is Rs. 5/-.
+Premium cannot be collected for next Financial Year due. E.g., in the month of March, premium cannot be collected for April due.
+Facility of premium payment through this channel is free to policyholders and no service charges/extra amount is to be paid by the Policyholders to any Bank or Service Provider.
+Contact Information
+For further clarifications, please use our SMS helpline.
+Send SMS,
+LICHELP <Policy Number>
+to 92224 92224. Our Customer Zone Executive will contact you to resolve your query.
+LIC Call Centre Services are also available 24x7 at 022 - 6827 6827.
+Go to Top
+Page Last Update Date :
+29/07/2026

@@ -1,0 +1,93 @@
+[
+  {
+    "source_id": "LIC-001",
+    "title": "Payment at Cash Counter",
+    "url": "https://licindia.in/en/web/guest/payment-at-cash-counter",
+    "authority": "LIC",
+    "document_type": "Web Page",
+    "retrieved_at_utc": "2026-10-07T04:47:53.372405+00:00",
+    "status": "success",
+    "http_status": 200,
+    "text_file": "LIC-001.txt",
+    "character_count": 332,
+    "error": null
+  },
+  {
+    "source_id": "LIC-003",
+    "title": "Payment through alternate channels",
+    "url": "https://licindia.in/web/guest/payment-through-alternate-channels#main-title",
+    "authority": "LIC",
+    "document_type": "Web Page",
+    "retrieved_at_utc": "2026-10-07T04:47:53.898602+00:00",
+    "status": "success",
+    "http_status": 200,
+    "text_file": "LIC-003.txt",
+    "character_count": 19903,
+    "error": null
+  },
+  {
+    "source_id": "LIC-004",
+    "title": "LIC Portal",
+    "url": "https://licindia.in/web/guest/lic-portal",
+    "authority": "LIC",
+    "document_type": "Web Page",
+    "retrieved_at_utc": "2026-10-07T04:47:54.316053+00:00",
+    "status": "success",
+    "http_status": 200,
+    "text_file": "LIC-004.txt",
+    "character_count": 18628,
+    "error": null
+  },
+  {
+    "source_id": "LIC-005",
+    "title": "Policy Guidelines & Helpline",
+    "url": "https://licindia.in/web/guest/policy-guidelines-helpline",
+    "authority": "LIC",
+    "document_type": "Web Page",
+    "retrieved_at_utc": "2026-10-07T04:47:54.816081+00:00",
+    "status": "success",
+    "http_status": 200,
+    "text_file": "LIC-005.txt",
+    "character_count": 17259,
+    "error": null
+  },
+  {
+    "source_id": "LIC-006",
+    "title": "Policy Status",
+    "url": "https://licindia.in/web/guest/policy-status",
+    "authority": "LIC",
+    "document_type": "Web Page",
+    "retrieved_at_utc": "2026-10-07T04:47:55.258617+00:00",
+    "status": "success",
+    "http_status": 200,
+    "text_file": "LIC-006.txt",
+    "character_count": 6151,
+    "error": null
+  },
+  {
+    "source_id": "LIC-007",
+    "title": "Customers Corner",
+    "url": "https://licindia.in/web/guest/customers-corner",
+    "authority": "LIC",
+    "document_type": "Web Page",
+    "retrieved_at_utc": "2026-10-07T04:47:55.671996+00:00",
+    "status": "success",
+    "http_status": 200,
+    "text_file": "LIC-007.txt",
+    "character_count": 851,
+    "error": null
+  },
+  {
+    "source_id": "LIC-008",
+    "title": "Grievance Redressal",
+    "url": "https://licindia.in/grievances",
+    "authority": "LIC",
+    "document_type": "Web Page",
+    "retrieved_at_utc": "2026-10-07T04:47:56.067212+00:00",
+    "status": "success",
+    "http_status": 200,
+    "text_file": "LIC-008.txt",
+    "character_count": 2524,
+    "error": null
+  }
+]

@@ -1,0 +1,129 @@
+Breadcrumb
+Policy Status
+NEW USER REGISTRATION GUIDELINES:
+For viewing the policy-related information, new customers are required to go through a Registration procedure, the details of which are stated in the ensuing paragraph.
+NEW USER REGISTRATION:
+All new users are required to visit
+licindia.in
+-> click on Login to Customer portal -> click on New user or visit Customer portal
+Login Page
+and -> click on
+Sign Up
+option to register into the customer portal to get all information related to their policy (including Online premium payment, Online loan Request, Online mode change, NEFT registration, Address Change, Policy Status, Bonus information, etc.).
+Requirements:
+Policy number (printed in the policy bond),
+Instalment Premium (printed in the policy bond),
+Date of Birth (Should match with the date of birth as mentioned in the policy bond),
+Mobile Number,
+Email ID.
+Procedure:
+"I confirm that the mobile number mentioned above is registered under my name and being used by me. I hereby authorize LIC to use the mobile number for any communication"
+Click on proceed*
+"you can re-verify the details by clicking on the verification link sent to Email ID after completion of registration"
+Click on OK.
+In the Enrolment of an Individual policy holder
+(Sign Up)
+page,
+Enter the Policy Details i.e., Policy Number and Instalment Premium without tax (refer policy bond).
+Enter Date of Birth (Should match with the date of birth as mentioned in the policy bond),
+Enter Mobile Number and Email ID for further correspondence (Valid and should not be attached to any other profile in customer portal).
+Enter PAN and Passport details (optional).
+Select Gender and verify all the details.
+Check on Declaration stating that.
+An alert message will be shown as
+Verification of Email ID and Mobile no. is mandatory for registering into Premier Services.
+Enter Password with respect to password guidelines and confirm it.
+You have successfully registered into customer portal and You can login through
+Login Page
+with your credentials.
+An auto-responder mail would be sent to the policy holder as confirmation of successful registration
+Note:*
+In case of incomplete registration after clicking on proceed in
+step 6
+you can complete the registration by using
+Forgot Password
+option.
+Password guidelines:
+Password should be minimum of 6 characters and maximum of 16 characters.- Must have at least one uppercase, one lowercase, one numeric and one special character.- Special characters allowed !, @, #, $, %, &, *, (, ),_
+Password should not contain your first name.
+Password should not start with a special character.
+Password should be unique and be kept confidential.
+The information marked with (*) are mandatory fields and cannot be left blank.
+PREMIER SERVICE REGISTRATION GUIDELINES
+PREMIER SERVICE:
+Registered customer portal users can avail more benefits (like Online loan Request, Online mode change, address change, Online Ulip Fund Switch, etc.) with the help of premier services.
+If you are a new user kindly register into customer portal by following
+New user registration
+guidelines.
+PREMIER SERIVICE REGISTRATION:
+Eligibility:
+Premier services are available for policies which are on your own life and policies of your minor children.
+Verification of Email ID and Mobile number is mandatory for registering into Premier Services.
+Requirements:
+Registration form with signature (from
+Step 2
+),
+Scanned PAN/PASSPORT (for KYC).
+Procedure:
+In order to avail Premier Services all the users have to complete premier service registration.
+For premier Service registration all the users have to visit Customer portal
+Login Page
+and enter Login credentials and click on login.
+In the Home page,
+Go to Service request -> Select Premier Service Registration
+(from the dropdown), In the next page you will be shown with terms and conditions and the steps you have to follow to complete the premier service registration. The steps involved are
+Step1:
+Registration Form
+Step2:
+Print/Save Form
+Step3:
+Upload Form/Check Status
+Click on proceed.
+Step 1: Registration Form
+In the Next page, The profile details and the List of policies which are eligible for premier services and the list of not eligible policies (with reason) will be shown.
+Click on
+Generate Registration Form
+then the Service Request ID will be generated for the eligible policies and click on Ok.
+Step 2: Print/Save Form
+In the next page, Kindly download the Registration form by clicking on
+“Step2: Print/Save Form option”
+Take printout of the form and verify the details and eligible policies.
+Sign the form and Scan the signed registration form*.
+Scan PAN/PASSPORT for KYC purpose*.
+Note: *
+size should not exceed 100kb and the allowed formats are PNG,PDF,JPG,JPEG,GIF.
+Step 3: Upload Form/Check Status
+Click on
+“Step3:Upload and Submit documents”
+In the following page upload the following documents
+Click on select and choose scanned Registration form with signature
+Select Identification proof(PAN/PASSPORT) and upload the scanned ID proof Click on Upload.
+An alert will pop-up that documents are uploaded successfully.
+In the next page, Kindly verify the uploaded documents by clicking on view documents.
+Click on
+submit.
+An alert will be shown that
+“Premier services request submitted successfully”.
+An acknowledgment will be sent to registered mobile number and Email ID.
+Track Request Status
+Track the status of the service request by
+Service request -> Track Request Status option.
+Select category as
+“Premier Service Registration”
+and status as
+“ALL”
+.
+Click on View, the service Request details, status will be shown.
+Click on view documents to see the uploaded documents.
+Note:
+In one premier service request maximum of 10 eligible policies are allowed .
+For more than 10 policies Kindly register a new request.
+Having Trouble ? Refer to
+Troubleshoot Help.
+If your queries are not answered in Troubleshoot Help, please use our Digital Helpline System in the below given URL
+-
+https://csticket.licindia.in/csTicket/index.php.
+Contact LIC Call Center at +91-02268276827
+Services are now available 24*7 in English, Hindi and 8 Regional Languages
+Page Last Update Date :
+10/11/2023
