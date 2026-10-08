@@ -1,0 +1,114 @@
+(.venv) D:\Darwix AI Assignment\Q4_Real_Time_Analytics>python app\realtime_replay.py audio\recordings\q4_demo_objection.wav
+============================================================
+Q4 REAL-TIME AUDIO ANALYTICS
+============================================================
+Audio: audio\recordings\q4_demo_objection.wav
+
+Loading Whisper model...
+Model loaded.
+
+Loading audio...
+Original sample rate: 24000 Hz
+Duration: 24.02 seconds
+Chunk size: 5 seconds
+
+Starting real-time replay...
+------------------------------------------------------------
+
+[Chunk 1]
+Audio time: 0.0s → 5.0s
+ASR latency: 1366 ms
+Transcript: The premium is too expensive. I'm not sure I
+Signal detection latency: 0.12 ms
+
+============================================================
+NUDGE GENERATED
+============================================================
+Signal:     PRICE_OBJECTION
+Confidence: 0.92
+Priority:   HIGH
+Matched:    too expensive, expensive
+
+Recommendation:
+Acknowledge the premium concern and offer to explain available payment options or servicing support.
+============================================================
+Chunk end-to-end latency: 1367 ms
+
+[Chunk 2]
+Audio time: 5.0s → 10.0s
+ASR latency: 1174 ms
+Transcript: I understand. I don't have
+Signal detection latency: 0.04 ms
+Chunk end-to-end latency: 1174 ms
+
+[Chunk 3]
+Audio time: 10.0s → 15.0s
+ASR latency: 1134 ms
+Transcript: enough information to say whether your policy has a lower premium option or what would happen if you stop paying.
+Signal detection latency: 0.06 ms
+Chunk end-to-end latency: 1134 ms
+
+[Chunk 4]
+Audio time: 15.0s → 20.0s
+ASR latency: 1144 ms
+Transcript: A servicing representative can review your specific policy and available choices. Would you like-
+Signal detection latency: 0.06 ms
+Chunk end-to-end latency: 1144 ms
+
+[Chunk 5]
+Audio time: 20.0s → 24.0s
+ASR latency: 3229 ms
+Transcript: I'll take help with payment options instead.
+Signal detection latency: 0.05 ms
+
+============================================================
+NUDGE GENERATED
+============================================================
+Signal:     PAYMENT_DIFFICULTY
+Confidence: 0.84
+Priority:   HIGH
+Matched:    payment options
+
+Recommendation:
+Offer to explain the available premium payment channels or arrange servicing support.
+============================================================
+Chunk end-to-end latency: 3230 ms
+
+============================================================
+REAL-TIME REPLAY COMPLETE
+============================================================
+Audio duration: 24.02s
+Wall-clock processing time: 24.03s
+
+============================================================
+LATENCY REPORT
+============================================================
+
+ASR latency:
+  P50: 1174 ms
+  P95: 1366 ms
+
+Signal detection latency:
+  P50: 0.06 ms
+  P95: 0.06 ms
+
+Nudge generation latency:
+  P50: 0.00 ms
+  P95: 0.36 ms
+
+End-to-end latency:
+  P50: 1174 ms
+  P95: 1367 ms
+
+============================================================
+NUDGE CONTROL SUMMARY
+============================================================
+Generated nudges: 2
+Suppressed nudges: 0
+Confidence threshold: 0.7
+Cooldown: 10s
+
+============================================================
+FINAL TRANSCRIPT
+============================================================
+The premium is too expensive. I'm not sure I I understand. I don't have enough information to say whether your policy has a lower premium option or what would happen if you stop paying. A servicing representative can review your specific policy and available choices. Would you like- I'll take help with payment options instead.

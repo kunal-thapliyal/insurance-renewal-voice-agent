@@ -1,0 +1,63 @@
+# Q4 Signal Detection Test Results
+
+## Test 1 — Missed Cross-Sell
+
+**Input:**  
+The customer has completed the renewal discussion and mentioned that they also have another vehicle.
+
+**Expected Signal:** `CROSS_SELL_OPPORTUNITY`
+
+**Result:** PASS
+
+**Nudge:**  
+Potential cross-sell opportunity detected. If appropriate, ask whether the customer needs coverage for the additional vehicle.
+
+---
+
+## Test 2 — Compliance / Risk
+
+**Input:**  
+The agent says the policy is guaranteed to cover everything and there is absolutely no risk.
+
+**Expected Signal:** `COMPLIANCE_RISK`
+
+**Result:** PASS
+
+**Nudge:**  
+Compliance check: avoid unsupported guarantees or definitive coverage/benefit claims. Verify the policy terms.
+
+---
+
+## Test 3 — Rising Frustration
+
+**Input:**  
+This is really frustrating. I've already explained this twice and nobody is helping me.
+
+**Expected Signal:** `FRUSTRATION`
+
+**Result:** PASS
+
+**Nudge:**  
+Acknowledge the customer's frustration, slow down, and address the immediate concern before continuing.
+
+---
+
+## Test 4 — Noisy / Ambiguous Call
+
+**Input:**  
+I was wondering... maybe... I don't know... the payment... actually never mind.
+
+**Expected Signal:** None
+
+**Result:** PASS
+
+**Expected Behavior:**  
+No unnecessary nudge is generated.
+
+---
+
+## Summary
+
+**Tests passed: 4/4**
+
+The signal detector correctly identified the three required actionable scenarios while avoiding a nudge for the ambiguous input.

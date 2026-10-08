@@ -1,0 +1,4 @@
+user: can you tell me how i can pay my premium 
+agent: You can pay at a branch by cash, local cheque, or demand draft. You may also pay online through the customer portal or Pay Direct using your policy details. An e-receipt is sent to your registered email. Which option would you prefer?
+user: peude po bang malman kung pano ako makapa pagbayadin n g premium 
+agent: Opo. Pwede kayong magbayad online sa Customer Portal o sa LIC Digital app gamit ang Pay Direct. Available ito kahit hindi registered sa portal. Maaari rin kayong magbayad sa branch gamit ang cash, local cheque, o demand draft. Gusto n’yo bang online o sa branch?

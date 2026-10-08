@@ -1,0 +1,3 @@
+user: Cicilannya terlalu mahal. 
+user: Saya nggak yakin mau lanjut. 
+agent: Saya mengerti, cicilan yang terasa mahal memang jadi pertimbangan. Saya belum punya informasi yang cukup tentang opsi penyesuaian pembayaran yang tersedia. Kalau mau, saya bisa bantu jelaskan informasi pembayaran yang ada.

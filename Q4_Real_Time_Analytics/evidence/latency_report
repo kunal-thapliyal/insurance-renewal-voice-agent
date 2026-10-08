@@ -1,0 +1,47 @@
+# Q4 Latency Report
+
+## Test Configuration
+
+- Audio: `q4_demo_objection.wav`
+- Audio duration: 24.02 seconds
+- Chunk size: 5 seconds
+- ASR model: Faster-Whisper `base`
+- Device: CPU
+- Compute type: INT8
+- Processing mode: real-time audio replay
+
+## Component Latency
+
+| Component | P50 | P95 |
+|---|---:|---:|
+| ASR | 1174 ms | 1366 ms |
+| Signal Detection | 0.06 ms | 0.06 ms |
+| Nudge Generation | 0.00 ms | 0.36 ms |
+| End-to-End | 1174 ms | 1367 ms |
+
+## Replay Timing
+
+- Audio duration: 24.02 seconds
+- Wall-clock processing time: 24.03 seconds
+
+The replay processed the recording at approximately real-time speed.
+
+## Interpretation
+
+The main latency contributor is ASR. Signal detection and nudge generation are lightweight because the prototype uses deterministic rule-based detection.
+
+The measured end-to-end P95 latency was approximately 1.37 seconds for a 5-second audio chunk.
+
+## Limitations
+
+The current prototype runs Faster-Whisper locally on CPU. Production deployment could reduce latency further using GPU inference, optimized ASR models, streaming ASR, batching where appropriate, and lower-latency inference infrastructure.
+
+The current prototype also uses 5-second chunks, so signal availability is affected by chunk duration.
+
+The transcript can contain minor chunk-boundary artifacts because each chunk is transcribed independently.
+
+## Production Considerations
+
+At higher scale, latency should be monitored continuously and the ASR component should be optimized independently from the signal and nudge layers.
+
+A production implementation should also support speaker diarization so that agent and customer statements can be distinguished before generating alerts.

@@ -1,0 +1,47 @@
+# Q4 False-Positive Analysis
+
+## Observed False Positive
+
+During real-time replay of the insurance renewal objection call, the detector generated a `HUMAN_SUPPORT` nudge after the transcript contained the word:
+
+`representative`
+
+The phrase occurred in:
+
+> A servicing representative can review your specific policy and available choices.
+
+### Why This Was a False Positive
+
+The word "representative" appeared in an informational statement rather than a customer request for human assistance.
+
+The detector initially used the standalone keyword `representative`, which caused the alert.
+
+### Mitigation
+
+The standalone `representative` keyword was removed from the `HUMAN_SUPPORT` detector.
+
+The detector now prioritizes explicit customer-intent phrases such as:
+
+- "speak to someone"
+- "speak to a person"
+- "talk to someone"
+- "human agent"
+- "customer service"
+- "call me back"
+- "callback"
+- "I want a human"
+- "I need a human"
+
+### Production Limitation
+
+The current prototype operates primarily on transcript text and does not yet perform full speaker diarization.
+
+In production, human-support intent should be evaluated using:
+
+1. Speaker identification
+2. Intent classification
+3. Conversation context
+4. Confidence thresholds
+5. Duplicate suppression and cooldowns
+
+This would reduce false positives caused by words appearing in the agent's own statements.

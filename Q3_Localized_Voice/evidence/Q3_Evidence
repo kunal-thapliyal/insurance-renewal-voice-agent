@@ -1,0 +1,336 @@
+# Question 3 — Native-Language Voice Bots
+
+## Overview
+
+Question 3 implements localized voice-bot prototypes for the Philippines and Indonesia.
+
+The prototypes focus on natural language, code-switching, local terminology, conversational tone, grounded responses, and language-specific fallback behavior.
+
+---
+
+# 1. Philippines Voice Bot
+
+## Sector
+
+Life insurance / insurance renewal.
+
+## Configuration
+
+- Platform: Retell AI
+- Model: GPT-5.6 Terra
+- Language: Filipino
+- Voice: Cimo
+- Knowledge Base: Q2 Insurance Renewal RAG Knowledge Base
+- Retrieval Function: `search_knowledge_base`
+
+## Language Support
+
+The Philippines bot supports:
+
+- English
+- Filipino/Tagalog
+- Natural Taglish
+
+The prompt instructs the agent to adapt to the customer's language and use Filipino expressions such as `po` and `opo` naturally.
+
+The agent is also instructed not to translate every English word into Filipino and to preserve common insurance terms such as premium, policy, beneficiary, rider, lapse, and coverage.
+
+---
+
+## Philippines Localization Examples
+
+### Example 1 — Taglish Payment Question
+
+Customer:
+
+> Can you tell me how I can pay my premium?
+
+Localized Taglish:
+
+> Pwede po bang malaman kung paano ako makakapagbayad ng premium?
+
+The agent responded in Filipino/Taglish and retained insurance/payment terminology.
+
+The test also demonstrated that the agent could understand imperfectly transcribed Taglish speech and still identify the payment intent.
+
+### Example 2 — Filipino Politeness
+
+The agent uses Filipino conversational politeness naturally, including:
+
+- `Opo`
+- `po`
+- `Gusto n’yo bang...`
+
+This makes the interaction more appropriate for a Filipino customer rather than simply translating an English response.
+
+### Example 3 — English/Taglish Code-Switching
+
+The agent can handle conversations where English and Filipino are mixed naturally.
+
+For example, insurance and payment terms such as:
+
+- premium
+- Customer Portal
+- Pay Direct
+
+can remain in English while the surrounding conversation is in Filipino/Taglish.
+
+---
+
+## Philippines Recorded Calls
+
+### Required Calls
+
+1. `philippines_payment`
+2. `philippines_objection`
+
+### Additional Localization Test
+
+3. `philippines_taglish_payment_localization`
+
+The third test provides additional evidence of Taglish code-switching and Filipino conversational localization.
+
+---
+
+## Philippines Test Coverage
+
+- Cooperative customer: Tested
+- Payment/renewal conversation: Tested
+- Sector-specific objection: Tested
+- Mixed English/finance terminology: Tested
+- Colloquial Taglish: Tested
+- Knowledge-base retrieval: Tested
+- Safe fallback: Implemented
+- Human assistance language: Implemented
+
+---
+
+## Philippines TTS Limitation
+
+A suitable native Filipino voice was not available in the selected Retell voice options.
+
+The prototype therefore uses the available Cimo voice.
+
+This is documented as a limitation rather than being presented as native Filipino TTS.
+
+---
+
+# 2. Indonesia Voice Bot
+
+## Sector
+
+The assessment specifies multifinance or consumer finance for Indonesia.
+
+The prototype uses the existing Q2 insurance knowledge base for demonstrating localization, grounded retrieval, and safe fallback.
+
+It does not claim that the underlying company operates an Indonesian multifinance or consumer-finance business.
+
+## Configuration
+
+- Platform: Retell AI
+- Model: GPT-5.6 Terra
+- Language: Indonesian / Bahasa Indonesia
+- Knowledge Base: Q2 Insurance Renewal RAG Knowledge Base
+- Retrieval Function: `search_knowledge_base`
+
+---
+
+## Indonesian Language Support
+
+The Indonesia bot supports:
+
+- Formal Bahasa Indonesia
+- Colloquial Bahasa Indonesia
+- Indonesian-English code-switching
+
+The prompt also includes Indonesian finance terminology such as:
+
+- `cicilan` — installment
+- `angsuran` — installment/payment
+- `tenor` — financing term
+- `denda` — penalty
+- `DP` — down payment
+- `jatuh tempo` — due date
+- `pembiayaan` — financing
+
+---
+
+## Indonesia Localization Examples
+
+### Example 1 — Online Payment Question
+
+Customer:
+
+> Halo, saya mau tahu apakah saya bisa bayar cicilan secara online?
+
+The knowledge base did not contain reliable Indonesian consumer-finance information.
+
+Instead of inventing an Indonesian payment method, the agent responded:
+
+> Maaf, saya belum memiliki informasi yang cukup untuk memastikan apakah pembayaran cicilan online tersedia.
+
+This demonstrates language-specific grounded fallback.
+
+### Example 2 — Colloquial Indonesian Objection
+
+Customer:
+
+> Cicilannya terlalu mahal. Saya nggak yakin mau lanjut.
+
+The agent understood:
+
+- `cicilan` as an installment-related concern
+- `nggak` as colloquial Indonesian for "not"
+
+The agent acknowledged the concern without applying pressure and stated that it did not have enough information about payment-adjustment options.
+
+### Example 3 — Safe Unsupported-Information Handling
+
+When Indonesian financing information is not supported by the connected knowledge base, the agent does not invent:
+
+- loan amounts
+- interest rates
+- penalties
+- due dates
+- Indonesian payment providers
+- Indonesian branches
+- Indonesian financing products
+
+Instead, it remains in Indonesian and provides a safe fallback.
+
+---
+
+## Indonesia Recorded Calls
+
+1. `indonesia_payment_fallback`
+2. `indonesia_installment_objection`
+
+Both calls demonstrate Indonesian-language interaction and grounded fallback/objection handling.
+
+---
+
+# 3. Code-Switching Behavior
+
+## Philippines
+
+The agent supports English, Filipino/Tagalog, and natural Taglish.
+
+The Taglish payment test demonstrated that the agent could understand an imperfectly transcribed Filipino/English question and respond naturally in Filipino/Taglish.
+
+## Indonesia
+
+The agent is configured to support Indonesian-English code-switching and finance-related English loanwords.
+
+The prompt instructs the agent not to force translation of common finance terminology when English terms are naturally used by the customer.
+
+---
+
+# 4. ASR Observations
+
+## Philippines
+
+The Philippines tests included imperfectly transcribed Taglish speech.
+
+Despite transcription errors, the agent correctly identified the intended payment and objection-related intent.
+
+No formal Word Error Rate measurement was performed.
+
+## Indonesia
+
+The Indonesia tests demonstrated understanding of standard and colloquial Indonesian, including the term `nggak`.
+
+No formal Word Error Rate measurement was performed.
+
+---
+
+# 5. Regional Accent Requirement — Indonesia
+
+The assessment requires testing at least one Indonesian regional accent outside standard Jakarta speech.
+
+A reliable regional-accent test was not performed in this prototype.
+
+This is therefore documented as a known limitation rather than claiming an unsupported test result.
+
+### Production Improvement
+
+A production implementation should:
+
+1. Obtain representative regional Indonesian speech samples.
+2. Test at least one regional accent outside standard Jakarta speech.
+3. Measure ASR accuracy and intent recognition.
+4. Compare regional-accent performance with standard Indonesian speech.
+
+---
+
+# 6. Knowledge-Base Grounding and Safety
+
+Both localized agents use the Q2 RAG knowledge base through the `search_knowledge_base` function.
+
+The agents are instructed to:
+
+- Search the knowledge base for business-specific factual questions.
+- Never invent unsupported information.
+- Ask for clarification when information is incomplete or conflicting.
+- Remain in the customer's language during fallback and escalation.
+- Avoid requesting passwords, OTPs, PINs, CVVs, or unnecessary sensitive information.
+- Never claim that a live human transfer occurred unless an actual transfer mechanism is available.
+
+For Indonesia, the connected knowledge base does not contain reliable Indonesian multifinance-specific information.
+
+The agent therefore uses a safe Indonesian fallback instead of hallucinating Indonesian financing rules or payment providers.
+
+---
+
+# 7. Evidence Files
+
+## Philippines
+
+### Recordings
+
+- `philippines_payment`
+- `philippines_objection`
+- `philippines_taglish_payment_localization`
+
+### Transcripts
+
+- `philippines_payment.txt`
+- `philippines_objection.txt`
+- `philippines_taglish_payment_localization.txt`
+
+## Indonesia
+
+### Recordings
+
+- `indonesia_payment_fallback`
+- `indonesia_installment_objection`
+
+### Transcripts
+
+- `indonesia_payment_fallback.txt`
+- `indonesia_installment_objection.txt`
+
+---
+
+# 8. Known Limitations
+
+1. The Q2 knowledge base primarily contains LIC/IRDAI insurance content and is not an Indonesian multifinance knowledge base.
+2. The Indonesia prototype therefore demonstrates localized voice behavior, terminology handling, grounded fallback, and safe interaction rather than a complete Indonesian consumer-finance system.
+3. A reliable Indonesian regional-accent test was not completed.
+4. A native Filipino TTS voice was not available in the selected voice options.
+5. No formal ASR Word Error Rate benchmark was performed.
+6. Human escalation is conversationally handled, but an actual live-transfer mechanism is not implemented.
+
+---
+
+# 9. Production Improvements
+
+For production deployment:
+
+- Build a dedicated Philippines knowledge base with local products, rules, payment methods, and regulatory content.
+- Build a dedicated Indonesia multifinance/consumer-finance knowledge base.
+- Add native Filipino and Indonesian TTS where available.
+- Test with native speakers.
+- Add representative Indonesian regional-accent audio and benchmark ASR performance.
+- Implement actual human-transfer/escalation integration.
+- Add automated evaluation for groundedness, intent accuracy, ASR quality, and fallback accuracy.
+- Add monitoring, privacy controls, authentication, and production observability.
